@@ -1,15 +1,8 @@
-body{
+html{
     margin: 0;
     font-family: Serif;
     color: black;
     background-color: aquamarine;
-    align-items: center;
-
-}
-nav{ 
     display: flex;
     align-items: center;
-}
-header{
-
 }
